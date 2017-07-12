@@ -1,7 +1,7 @@
 # Simple Todo List
 
-The Meteor Tutorial app.
+Meteor Tutorial app.
 
-Todo list which updates on everyone's screen in real time, and you can make tasks private if you don't want others to see them.
+To do list which updates on multiple screens in real time, and you can make tasks private if you don't want others to see them.
 
 ![screenshot](https://github.com/zsilverman/meteor-tutorial-blaze/blob/master/Screenshot.png)
